@@ -21,6 +21,12 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## Team
+
+[![Dharmik Patel]()](https://github.com/Dharmik1210)  | [![Meet Gothi]()](https://github.com/meet0510)
+---|---
+[Dharmik Patel ](https://github.com/Dharmik1210) |[Meet Gothi](https://github.com/meet0510)
+
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
 [Firebase.js]:https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=yellow
