@@ -17,7 +17,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 * [![React][React.js]][React-url]
 * [![Firebase][Firebase.js]][Firebase-url]
-* ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=yellow)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
