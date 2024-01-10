@@ -21,11 +21,11 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Team
+### Team
+[<img src="https://media.licdn.com/dms/image/D4D03AQGt4MOOGp7IfA/profile-displayphoto-shrink_800_800/0/1673542443413?e=1710374400&v=beta&t=Fxvn61L-tL9oB6cyBqr1yAyiKLWXpmxDn8GmrkwCCJs" width="100" height="100"/>](https://github.com/Dharmik1210) | [<img src="https://media.licdn.com/dms/image/D4D03AQFtUZdQsMok6g/profile-displayphoto-shrink_800_800/0/1683809724887?e=1710374400&v=beta&t=6CDzuKovdUn9z7AQ3Tk0uvJpi6IIPbdav-HoBWY0Zcs" width="100" height="100"/>](https://github.com/meet0510)
+---|---
+[Dharmik Patel ](https://github.com/Dharmik1210) |[Meet Gothi](https://github.com/meet0510)
 
-<img src="https://media.licdn.com/dms/image/D4D03AQGt4MOOGp7IfA/profile-displayphoto-shrink_800_800/0/1673542443413?e=1710374400&v=beta&t=Fxvn61L-tL9oB6cyBqr1yAyiKLWXpmxDn8GmrkwCCJs" width="200" height="200"/> | <img src="https://media.licdn.com/dms/image/D4D03AQFtUZdQsMok6g/profile-displayphoto-shrink_800_800/0/1683809724887?e=1710374400&v=beta&t=6CDzuKovdUn9z7AQ3Tk0uvJpi6IIPbdav-HoBWY0Zcs" width="200" height="200"/>
-
-[![Dharmik Patel](https://github.com/Dharmik1210) ![Meet Gothi](https://github.com/meet0510)](https://github.com/Dharmik1210)
 
 
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
