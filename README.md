@@ -23,6 +23,6 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
-[Firebase.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-[Firebase-url]: https://reactjs.org/
+[Firebase.js]:https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=yellow
+[Firebase-url]: https://firebase.google.com/
 
